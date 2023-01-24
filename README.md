@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Ramey Beavers I am extra excited for this course because i feel it will be a more in depth teaching of python and other important skills for moving into industry and just life. Fun fact about me is I am a huge movie nerd, I watch atleast 2 movies almost everyday and if you ever want to talk about one let me know!
 <!--
 **Ramey-Beavers/Ramey-Beavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
